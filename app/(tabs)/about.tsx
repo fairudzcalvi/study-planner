@@ -10,10 +10,11 @@ import {
 } from 'react-native';
 
 const members = [
-  'Maria Santos',
-  'Juan Dela Cruz',
-  'Sofia Rodriguez',
-  'Carlos Gomez',
+  'Alih, Salman L.',
+  'Calvi, Fairudz L.',
+  'Sampang, Ridzwan H.',
+  'Usman, Al-Asraff J.',
+  'Zambales, Maria Victoria Jean M.'
 ];
 
 export default function AboutScreen() {
